@@ -6,4 +6,4 @@ How to use:
 Download the file you need (e.g yolov5n_rtsp_demo)    
 ```cd yolov5n_rtsp_demo```    
 ```./luckfox_pico_rtsp_yolov5```    
-File names will vary, so please check which one you downloaded
+File names will vary, so please check which one you downloaded (yolov5 cannot run on RV1103 pico mini due to its low RAM, use yolov5n instead)
